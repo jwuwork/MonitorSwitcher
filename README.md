@@ -1,0 +1,1 @@
+This is a very simple program that solves an annoying problem for those using Windows on laptops without an on/off button for screens.  It's simply a tray icon that allows you to turn off your laptop screen with a single click.  I find it particulary useful when you want to focus on work or conserve battery.
